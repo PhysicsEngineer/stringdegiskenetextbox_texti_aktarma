@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\bin\Debug\net6.0-windows\Degiskenler.exe
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\bin\Debug\net6.0-windows\Degiskenler.deps.json
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\bin\Debug\net6.0-windows\Degiskenler.runtimeconfig.json
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\bin\Debug\net6.0-windows\Degiskenler.dll
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\bin\Debug\net6.0-windows\Degiskenler.pdb
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\obj\Debug\net6.0-windows\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\obj\Debug\net6.0-windows\Degiskenler.Form1.resources
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\obj\Debug\net6.0-windows\Degiskenler.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\obj\Debug\net6.0-windows\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\obj\Debug\net6.0-windows\Degiskenler.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\obj\Debug\net6.0-windows\Degiskenler.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\obj\Debug\net6.0-windows\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\obj\Debug\net6.0-windows\Degiskenler.dll
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\obj\Debug\net6.0-windows\refint\Degiskenler.dll
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\obj\Debug\net6.0-windows\Degiskenler.pdb
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\obj\Debug\net6.0-windows\Degiskenler.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Degiskenler\Degiskenler\obj\Debug\net6.0-windows\ref\Degiskenler.dll
